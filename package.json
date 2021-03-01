@@ -8,6 +8,7 @@
     "three": "^0.126.0"
   },
   "scripts": {
-    "dev": "parcel ./src/html/index.html"
+    "dev": "parcel ./src/html/index.html",
+    "build": "parcel build ./src/html/index.html"
   }
 }
